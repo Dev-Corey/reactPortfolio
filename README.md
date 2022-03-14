@@ -1,6 +1,12 @@
 
   # React Portfolio
   ![badge](https://img.shields.io/badge/license-mit-blue)
+  
+  
+  
+  
+  
+  ![Intro Screen Grab](public/assets/captures/introCAPTURE.PNG)
     
 
   ## Table-of-Contents
@@ -15,7 +21,7 @@
   ## [Description](#table-of-contents)
   This is my React App Portfolio. Go check it out [HERE!]()
   
-  ![Contact Me Screen Grab](assets/captures/contactCAPTURE.PNG)
+  ![Contact Me Screen Grab](public/assets/captures/contactCAPTURE.PNG)
 
 
   ## [License](#table-of-contents)
